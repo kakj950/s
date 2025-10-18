@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Text  on main brench
+=======
+Text in conflict branch
+>>>>>>> conflict-branch
