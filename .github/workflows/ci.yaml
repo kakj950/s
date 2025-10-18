@@ -1,4 +1,4 @@
-пшеname: CI Pipeline
+name: CI Pipeline
 
 on: [push]  # Триггер: запускать при любом push
 
